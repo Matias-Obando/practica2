@@ -1,7 +1,7 @@
     <!-- Faq Section -->
     <section class="faq-9 faq section light-background" id="faq">
 
-      <div class="container">
+     <div class="container">
         <div class="row">
 
           <div class="col-lg-5" data-aos="fade-up">
@@ -18,7 +18,7 @@
             <div class="faq-container">
 
               <div class="faq-item faq-active">
-                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+                <h3>Cambio esto porque esta en latin y no tengo ni idea!</h3>
                 <div class="faq-content">
                   <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
                 </div>
